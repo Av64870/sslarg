@@ -1,1 +1,75 @@
+{ 
+  "Version": "1.1", 
+  "Message": "ACTUALIZACIÓN 
 
+se arwgan nuevos servidores 
+
+1 Brasil 
+2 Argentina 
+3 México", 
+  "Servers": [ 
+  { 
+      "Name": "Argentina SSL + PAY (AR01 | SSL)", 
+      "SSHHost": "www.argentina.gob.ar", 
+      "SSHPort": "22", 
+      "Flag": "US",
+      "DropBear": "", 
+      "SSLPort": "443", 
+      "ProxyPort": "80" 
+    },   
+    { 
+      "Name": "Argentina SSL + PAY (AR02 | SSL)",
+      "SSHHost": "edu.ar.gob.ar", 
+      "SSHPort": "80",  
+      "Flag": "US",
+      "DropBear": "", 
+      "SSLPort": "443", 
+      "ProxyPort": "80" 
+    }, 
+   { 
+      "Name": "Argentina SSL + PAY (AR03 | SSL)",
+      "SSHHost": "www.argentina.gob.ar", 
+      "SSHPort": "22", 
+      "Flag": "US",
+      "DropBear": "", 
+      "SSLPort": "443", 
+      "ProxyPort": "80" 
+   } 
+  ], 
+
+  "Tweaks": [ 
+    { 
+      "Name": "ARGENTINA SSL + PAY 01 ", 
+      "Flag": "AR",
+      "SSL": true, 
+      "Direct": false, 
+      "Payws": "CONNECT wss://turnos.argentina.gob.ar HTTP/1.1[crlf]Host: sssl.serveinc.tk[crlf]Connection: Keep-Alive[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]", 
+      "Payload": "www.argentina.gob.ar", 
+      "CustomProxy": true, 
+      "ProxyHost": "www.argentina.gob.ar", 
+      "ProxyPort": "443" 
+    },
+    { 
+      "Name": "ARGENTINA SSL + PAY 02",  
+      "Flag": "AR",
+      "SSL": true, 
+      "Direct": false, 
+      "Payws": "UNLOCK h2://www.argentina.gob.ar HTTP/1.1[crlf]Host: sssl.serveinc.tk[crlf]Upgrade: websocket[crlf][crlf]", 
+      "Payload": "www.argentina.gob.ar", 
+      "CustomProxy": false, 
+      "ProxyHost": "", 
+      "ProxyPort": "" 
+    },
+    {
+      "Name": "ARGENTINA SSL + PAY 03",
+      "Flag": "AR",
+      "SSL": true,
+      "Direct": false,
+      "Payws": "UNLOCK h2://www.argentina.gob.ar HTTP/1.1[crlf]Host: dankelx.onlycodemx.xyz[crlf]Upgrade: websocket[crlf][crlf]", 
+      "Payload": "www.argentina.gob.ar", 
+      "CustomProxy": true, 
+      "ProxyHost": "www.argentina.gob.ar", 
+      "ProxyPort": "443"
+     }
+  ] 
+}
