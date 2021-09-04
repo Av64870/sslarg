@@ -1,1 +1,75 @@
-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
+{ 
+  "Version": "1.2", 
+  "Message": "ACTUALIZACIÓN 
+
+se arwgan nuevos servidores 
+
+1 Brasil 
+2 Argentina 
+3 México", 
+  "Servers": [ 
+  { 
+      "Name": "Argentina SSL + PAY (AR01 | SSL)", 
+      "SSHHost": "www.argentina.gob.ar", 
+      "SSHPort": "22", 
+      "Flag": "US",
+      "DropBear": "", 
+      "SSLPort": "443", 
+      "ProxyPort": "80" 
+    },   
+    { 
+      "Name": "Argentina SSL + PAY (AR02 | SSL)",
+      "SSHHost": "edu.ar.gob.ar", 
+      "SSHPort": "80",  
+      "Flag": "US",
+      "DropBear": "", 
+      "SSLPort": "443", 
+      "ProxyPort": "80" 
+    }, 
+   { 
+      "Name": "Argentina SSL + PAY (AR03 | SSL)",
+      "SSHHost": "www.argentina.gob.ar", 
+      "SSHPort": "22", 
+      "Flag": "US",
+      "DropBear": "", 
+      "SSLPort": "443", 
+      "ProxyPort": "80" 
+   } 
+  ], 
+
+  "Tweaks": [ 
+    { 
+      "Name": "ARGENTINA SSL + PAY 01 ", 
+      "Flag": "AR",
+      "SSL": true, 
+      "Direct": false, 
+      "Payws": "CONNECT wss://turnos.argentina.gob.ar HTTP/1.1[crlf]Host: sssl.serveinc.tk[crlf]Connection: Keep-Alive[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]", 
+      "Payload": "www.argentina.gob.ar", 
+      "CustomProxy": true, 
+      "ProxyHost": "www.argentina.gob.ar", 
+      "ProxyPort": "443" 
+    },
+    { 
+      "Name": "ARGENTINA SSL + PAY 02",  
+      "Flag": "AR",
+      "SSL": true, 
+      "Direct": false, 
+      "Payws": "UNLOCK h2://www.argentina.gob.ar HTTP/1.1[crlf]Host: sssl.serveinc.tk[crlf]Upgrade: websocket[crlf][crlf]", 
+      "Payload": "www.argentina.gob.ar", 
+      "CustomProxy": false, 
+      "ProxyHost": "", 
+      "ProxyPort": "" 
+    },
+    {
+      "Name": "ARGENTINA SSL + PAY 03",
+      "Flag": "AR",
+      "SSL": true,
+      "Direct": false,
+      "Payws": "UNLOCK h2://www.argentina.gob.ar HTTP/1.1[crlf]Host: dankelx.onlycodemx.xyz[crlf]Upgrade: websocket[crlf][crlf]", 
+      "Payload": "www.argentina.gob.ar", 
+      "CustomProxy": true, 
+      "ProxyHost": "www.argentina.gob.ar", 
+      "ProxyPort": "443"
+     }
+  ] 
+} 
